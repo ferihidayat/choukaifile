@@ -1,9 +1,9 @@
 {
     "listChoukai": [{
-            "id": 1,
+            "id": "1",
             "nama": "Choukai JFT 1",
             "tingkat": "JFT Basic A2",
-            "jumlah": 8,
+            "jumlah": "8",
             "access": false,
             "soal": [{
                     "id": "1",
@@ -64,10 +64,10 @@
             ]
         },
         {
-            "id": 2,
+            "id": "2",
             "nama": "Choukai JFT 2",
             "tingkat": "JFT Basic A2",
-            "jumlah": 8,
+            "jumlah": "8",
             "access": true,
             "soal": [{
                     "id": "1",
@@ -128,10 +128,10 @@
             ]
         },
         {
-            "id": 3,
+            "id": "3",
             "nama": "Choukai JFT 3",
             "tingkat": "JFT Basic A2",
-            "jumlah": 8,
+            "jumlah": "8",
             "access": false,
             "soal": [{
                     "id": "1",
