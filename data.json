@@ -1,0 +1,27 @@
+{
+    "listChoukai": [{
+            "nomor": "1",
+            "nama": "Choukai JFT 1",
+            "tingkat": "JFT Basic A2",
+            "jumlah": "9",
+            "link": "choukai-jft1/index.html",
+            "access": false
+        },
+        {
+            "nomor": "2",
+            "nama": "Choukai JFT 2",
+            "tingkat": "JFT Basic A2",
+            "jumlah": "8",
+            "link": "choukai-jft2/index.html",
+            "access": true
+        },
+        {
+            "nomor": "3",
+            "nama": "Choukai JFT 3",
+            "tingkat": "JFT Basic A2",
+            "jumlah": "9",
+            "link": "choukai-jft3/index.html",
+            "access": false
+        }
+    ]
+}
