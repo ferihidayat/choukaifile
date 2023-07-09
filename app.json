@@ -1,0 +1,61 @@
+{
+    "app": [{
+        "nama": "Benkyou",
+        "namavjp": "勉強",
+        "auhor": "Feri Hidayatulloh",
+        "auhorvjp": "フェリ　ヒダヤトゥロー",
+        "deskripsi": "Web tempat belajar B Jepang, Choukai Dll",
+        "profil": "Content Creator, Web Developer, UI / UX Designer",
+        "instagram": "https://www.instagram.com/ferihidayatx",
+        "facebook": "https://www.facebook.com/ferihidayatx",
+        "github": "https://github.com/ferihidayat",
+        "youtube": "https://www.youtube.com/channel/UC5R2L_JhbQsjC-K0jSmHEpA",
+        "link": "benkyoushiyou.vercel.app/",
+        "icon": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/assets/img/layouts/profile.jpg",
+        "carousel": [{
+            "id": 1,
+            "gambar": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/assets/img/artikel/manabunihongo.png",
+            "active": "active"
+        }, {
+            "id": 2,
+            "gambar": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/assets/img/artikel/myanimelist.jpeg",
+            "active": ""
+        }],
+        "fitur": [{
+            "id": 1,
+            "nama": "Bahasa Jepang",
+            "link": "#",
+            "icon": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/assets/img/bjepang.webp",
+            "proses": false
+        }, {
+            "id": 2,
+            "nama": "Choukai",
+            "link": "list-choukai/index.html",
+            "icon": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/assets/img/choukai.png",
+            "proses": false
+        }, {
+            "id": 3,
+            "nama": "Kanji",
+            "link": "https://kotobaweb.com/kanjigame/create",
+            "icon": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/assets/img/kanji.png",
+            "proses": false
+        }],
+        "kategori": [{
+            "id": 1,
+            "nama": "#Nihon Go",
+            "link": "#"
+        }, {
+            "id": 2,
+            "nama": "#Choukai JFT",
+            "link": "list-choukai/index.html"
+        }, {
+            "id": 3,
+            "nama": "#Choukai JLPT",
+            "link": "list-choukai/index.html"
+        }, {
+            "id": 4,
+            "nama": "#Kanji",
+            "link": "https://kotobaweb.com/kanjigame/create"
+        }]
+    }]
+}
