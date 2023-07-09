@@ -1,37 +1,4 @@
 {
-    "Website": [{
-        "nama": "Feri Hidayat - Nihongo Saito ",
-        "logo": "",
-        "author": "Feri Hidayatulloh",
-        "carousel": [{
-            "id": 1,
-            "gambar": "",
-            "active": "active"
-        }, {
-            "id": 2,
-            "gambar": "",
-            "active": "active"
-        }],
-        "fitur": [{
-            "id": 1,
-            "nama": "Bahasa Jepang",
-            "link": "#",
-            "proses": false,
-            "logo": ""
-        }, {
-            "id": 2,
-            "nama": "Choukai",
-            "link": "choukai/index.html",
-            "proses": false,
-            "logo": ""
-        }, {
-            "id": 3,
-            "nama": "Kanji",
-            "link": "#",
-            "proses": false,
-            "logo": ""
-        }]
-    }],
     "listChoukai": [{
             "id": 1,
             "nama": "Choukai JFT 1",
