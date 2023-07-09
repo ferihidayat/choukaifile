@@ -4,7 +4,7 @@
             "nama": "Choukai JFT 1",
             "tingkat": "JFT Basic A2",
             "jumlah": "8",
-            "access": false,
+            "access": true,
             "soal": [{
                     "id": "1",
                     "audio": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft1/mondai1.mp3",
@@ -132,7 +132,7 @@
             "nama": "Choukai JFT 3",
             "tingkat": "JFT Basic A2",
             "jumlah": "8",
-            "access": false,
+            "access": true,
             "soal": [{
                     "id": "1",
                     "audio": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft3/mondai1.mp3",
