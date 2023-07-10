@@ -137,57 +137,57 @@
                     "id": "1",
                     "audio": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft3/mondai1.mp3",
                     "mondai": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft3/mondai1.jpg",
-                    "kotoba": "",
-                    "text": "A : 日本では何をしていますか",
-                    "jawaban": "3"
+                    "kotoba": "唐揚げ「からあげ：ayam goreng。<br> 焼き鳥「やきとり」：sate ayam。<br>タレ：saus(berbahan shoyu, bawang putih, wijen dll)。<br> デザート：pencuci mulut。<br> 両方「りょうほう」：kedua-duanya, keduanya。",
+                    "text": "じゃあ、何を買って行きましょうか。<br> そうですね。<br> 何が食べたいですか。<br> 何でもいいです。<br> 私は肉がいいです。<br> じゃあ、唐揚げを買っていきましょう。<br> 焼き鳥もいいですね。<br> 焼き鳥も買いますか。塩とタレどっちがいいですか。<br> 塩の方が良いです。<br> じゃあ塩にしましょう。飲み物は何がいいですか。<br> お茶がいいです。<br> お茶いろいろありますね。どれがいいですか。<br> ウーロン茶にしましょう。<br> お酒もいいですか。<br> 良いですよ。<br> じゃあビール。<br> デザートはどうしますか。<br> あそこでケーキ売ってますよ買って行きましょう。<br> チョコレートケーキとチーズケーキどっちがいいですか。<br> 私はどっちでもいいです。<br> じゃあ、両方買いましょう。",
+                    "jawaban": ""
                 },
                 {
                     "id": "2",
                     "audio": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft3/mondai2.mp3",
                     "mondai": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft3/mondai2.jpg",
-                    "kotoba": "",
-                    "text": "A : 日本では何をしていますか",
-                    "jawaban": "3"
+                    "kotoba": "玄関「げんかん」：depan pintu rumah, pintu masuk。<br>いらっしゃい / ようこそ：selamat datang。<br>上がって「あがって」：silahkan naik, silahkan masuk。<br>うちの奥さん「うちのおくさん」：istri saya。<br>居間「いま」：ruang tamu。<br>崩す「くずす」：melonggarkan, mengendurkan, mematahkan。",
+                    "text": "「玄関で」<br>ごめんください。<br>はい、トアンさんいらっしゃいようこそさあ　上がって。<br>お邪魔します。<br>こんにちは。<br>うちの奥さん。こっちは息子のタケル。<br>こんにちは。<br>こちら、とアンさん。<br>初めましてトンです。福田さんにはいつもお世話になっています。<br>こちらこそ夫がお世話になっています。<br>「居間で」<br>お茶をどうぞ。<br>いただきます。あのうこれベトナムのコーヒーです。どうぞ。<br>ありがとう。<br>すみません、足を崩してもいいですか。<br>あーどうぞ楽にしてね。<br>「玄関で」<br>今日はごちそうさまでした。楽しかったです。<br>いいえいいえ、<br>また来てね。<br>いつでも遊びに来てください。<br>ありがとうございます。お邪魔しました 。",
+                    "jawaban": ""
                 },
                 {
                     "id": "3",
                     "audio": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft3/mondai3.mp3",
                     "mondai": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft3/mondai3.jpg",
-                    "kotoba": "",
-                    "text": "A : 日本では何をしていますか",
-                    "jawaban": "3"
+                    "kotoba": "特に「とくに」：terutama, khususnya。",
+                    "text": "はじめまして、グエンティホアと申します。ホアと呼んでください。ホアは花という意味です。ベトナムのダナンという町から来ました。先週日本に来たばかりです。日本語は日本に来る前に一年間勉強しました。まだ日本のことはよくわかりませんが一生懸命頑張ります。どうぞよろしくお願いします。<br>あのう、ベトナムではどんな仕事をしてましたか。<br>ホテルで働いていました。<br>趣味は何ですか。<br>趣味？えっと、音楽を聞くことです。ジェーポップが好きです。特にパフュームが好きです 。",
+                    "jawaban": ""
                 },
                 {
                     "id": "4",
                     "audio": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft3/mondai4.mp3",
                     "mondai": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft3/mondai4.jpg",
                     "kotoba": "",
-                    "text": "A : 日本では何をしていますか",
-                    "jawaban": "3"
+                    "text": "何食べる？ここの刺身美味しいよ。<br>私ベジタリアンなので、肉とか魚はダメなんです。<br>じゃあ豆腐料理は大丈夫？<br>はい大丈夫です 。",
+                    "jawaban": ""
                 },
                 {
                     "id": "5",
                     "audio": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft3/mondai5.mp3",
                     "mondai": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft3/mondai5.jpg",
-                    "kotoba": "",
-                    "text": "A : 日本では何をしていますか",
-                    "jawaban": "3"
+                    "kotoba": "行き先「いきさき」：tempat yang akan dituju。<br>湖「みずうみ」：danau。<br>レンタサイクル：rental sepeda。<br>遊園地「ゆえんち」：taman bermain。<br>温泉「おんせん」：pemandian air panas。",
+                    "text": "行き先はどこにしますか。<br>宮野さんはどんなところがいいですか。<br>そうですね。私は景色がきれいなところがいいです。<br>じゃあ、富士山の近くはどうですか。<br>へえ富士山？何があるんですか。<br>きれいな湖があります。湖と富士山が一緒に見られてすごく綺麗だそうですよ。<br>そうなんですか。ちょっと写真を見てみます。はああ、きれい、いいですね。<br>本当ですね。じゃあ、富士山にしましょう。<br>そこで何をしますか。遊べるところはありますか。<br>湖でボートに乗れますよ。<br>いいですね。あとレンタサイクルがありますよ。自転車を借りてサイクリングしませんか？楽しそう。<br>ごめんなさい。私自転車乗れないんです。<br>そうですか。<br>あの近くに遊園地がありますよ。<br>いいですね。行きましょう。<br>それから温泉もありますよ。どうですか。<br>ほかの人と一緒にお風呂に入るのはちょっと。。<br>そうですか。あと、うどんがおいしいって聞きました。<br>食べたいです。<br>どうやって行きますか。<br>バスで行けますよ。安くて便利だって先輩が言ってました。<br>そうなんですか。バスはどこから出発しますか。<br>ちょっと見てみますね。新宿からですね。<br>それなら便利ですね。<br>楽しみですね 。",
+                    "jawaban": ""
                 },
                 {
                     "id": "6",
                     "audio": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft3/mondai6.mp3",
                     "mondai": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft3/mondai6.jpg",
-                    "kotoba": "",
-                    "text": "A : 日本では何をしていますか",
-                    "jawaban": "3"
+                    "kotoba": "泊まる「とまる」：menginap。<br>民宿<br>民宿「みんしゅく」：penginapan rumah penduduk。<br>宿「やど」：penginapan, losmen, pondok。<br>計画を立てる「けいかくをたてる」：menyusun rencana.",
+                    "text": "ナディアさん、夏休みはどうするの？<br>友達と奈良に旅行に行きたいです。<br>いいね。<br>あのう日本の旅館に泊まってみたいんですけど高いですか。<br>安いところもあるし高いところもあるしいろいろ。<br>どんなところに泊まったらいいですか。<br>安いところがいいなら民宿もいいよ知ってる？<br>民宿？<br>えっと家族でやってる小さな宿。<br>ええ民宿ですか。<br>あーでも夏休みの時期はすごく混むから早く計画を立てて予約した方がいいよ。<br>そうですか。調べてみます 。",
+                    "jawaban": ""
                 },
                 {
                     "id": "7",
                     "audio": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft3/mondai7&8.mp3",
                     "mondai": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft3/mondai7&8.jpg",
-                    "kotoba": "",
-                    "text": "A : 日本では何をしていますか",
-                    "jawaban": "3"
+                    "kotoba": "日光「にっこ」：kota yang terletak di Prefektur Tochigi。<br>一泊「いっぱく」：satu malam(menginap)。<br>東照宮「とうしょうぐ」：kuil shinto yang terletak di Nikko。<br>中禅寺湖「ちゅうぜんじこ」：danau yang terletak di Prefektur Nagano。<br>名物「めいぶつ」：produk khas。日帰り「ひかえり」：perjalanan pulang pergi dalam satu hari。<br>ぜひ：sangat, sungguh-sungguh, dengan sepenuh hat。",
+                    "text": "あっこんばんは外国の方ですよね。<br>あっはい。<br>坂本と言います。よろしくお願いします。<br>あっ私はエドです。よろしくお願いします。<br>エドさんはどちらからですか。<br>フィリピンです。でも今は日本に住んでいます。<br>そうですか。日光は旅行ですか。<br>はい一泊です。<br>今日はどこに行きましたか。<br>今日は東照宮に行きました。明日は中禅寺湖に行くつもりです。<br>僕も今日中禅寺湖に行ってきましたよ。すごく綺麗でした。<br>そうですか。楽しみです。<br>おいしいものは何か食べましたか。<br>はい、そばを食べました。ゆばも食べてみたいです。<br>ああ日光の名物ですからね。<br>あと温泉に入りたいんですけどどこで入ったらいいですか。<br>温泉ですか。中禅寺湖のホテルに日帰りでお風呂に入れるところがあると思いますよ。ちょっと調べてみましょうか。<br>はい、ぜひお願いします 。",
+                    "jawaban": ""
                 }
             ]
         }
