@@ -4,7 +4,7 @@
             "nama": "Choukai JFT 1",
             "tingkat": "JFT Basic A2",
             "jumlah": "8",
-            "access": false,
+            "access": true,
             "soal": [{
                     "id": "1",
                     "audio": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft1/mondai1.mp3",
@@ -68,7 +68,7 @@
             "nama": "Choukai JFT 2",
             "tingkat": "JFT Basic A2",
             "jumlah": "8",
-            "access": false,
+            "access": true,
             "soal": [{
                     "id": "1",
                     "audio": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft2/mondai1.mp3",
@@ -188,6 +188,86 @@
                     "kotoba": "日光「にっこ」：kota yang terletak di Prefektur Tochigi。<br>一泊「いっぱく」：satu malam(menginap)。<br>東照宮「とうしょうぐ」：kuil shinto yang terletak di Nikko。<br>中禅寺湖「ちゅうぜんじこ」：danau yang terletak di Prefektur Nagano。<br>名物「めいぶつ」：produk khas。日帰り「ひかえり」：perjalanan pulang pergi dalam satu hari。<br>ぜひ：sangat, sungguh-sungguh, dengan sepenuh hat。",
                     "text": "あっこんばんは外国の方ですよね。<br>あっはい。<br>坂本と言います。よろしくお願いします。<br>あっ私はエドです。よろしくお願いします。<br>エドさんはどちらからですか。<br>フィリピンです。でも今は日本に住んでいます。<br>そうですか。日光は旅行ですか。<br>はい一泊です。<br>今日はどこに行きましたか。<br>今日は東照宮に行きました。明日は中禅寺湖に行くつもりです。<br>僕も今日中禅寺湖に行ってきましたよ。すごく綺麗でした。<br>そうですか。楽しみです。<br>おいしいものは何か食べましたか。<br>はい、そばを食べました。ゆばも食べてみたいです。<br>ああ日光の名物ですからね。<br>あと温泉に入りたいんですけどどこで入ったらいいですか。<br>温泉ですか。中禅寺湖のホテルに日帰りでお風呂に入れるところがあると思いますよ。ちょっと調べてみましょうか。<br>はい、ぜひお願いします 。",
                     "jawaban": ""
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "nama": "Choukai JFT 4",
+            "tingkat": "JFT Basic A2",
+            "jumlah": "10",
+            "access": true,
+            "soal": [{
+                    "id": "1",
+                    "audio": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft4/mondai1.mp3",
+                    "mondai": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft4/mondai1.jpg",
+                    "kotoba": "",
+                    "text": "A : 日本では何をしていますか <br>B : 働いています <br>A : そうですか どんな仕事ですか <br>B : 介護の仕事をしています <br>A : 仕事はどうですか ​​​​​​​<br>B : 毎日大変ですでも楽しいです",
+                    "jawaban": "3"
+                },
+                {
+                    "id": "2",
+                    "audio": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft4/mondai2.mp3",
+                    "mondai": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft4/mondai2.jpg",
+                    "kotoba": "",
+                    "text": "A : 日本では何をしていますか",
+                    "jawaban": "2"
+                },
+                {
+                    "id": "3",
+                    "audio": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft4/mondai3&4.mp3",
+                    "mondai": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft4/mondai3&4.jpg",
+                    "kotoba": "",
+                    "text": "A : 日本では何をしていますか",
+                    "jawaban": "2 & 2"
+                },
+                {
+                    "id": "4",
+                    "audio": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft4/mondai5.mp3",
+                    "mondai": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft4/mondai5.jpg",
+                    "kotoba": "",
+                    "text": "A : 日本では何をしていますか",
+                    "jawaban": "1"
+                },
+                {
+                    "id": "5",
+                    "audio": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft4/mondai6.mp3",
+                    "mondai": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft4/mondai6.jpg",
+                    "kotoba": "",
+                    "text": "A : 日本では何をしていますか",
+                    "jawaban": "3"
+                },
+                {
+                    "id": "6",
+                    "audio": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft4/mondai7.mp3",
+                    "mondai": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft4/mondai7.jpg",
+                    "kotoba": "",
+                    "text": "A : 日本では何をしていますか",
+                    "jawaban": "1"
+                },
+                {
+                    "id": "7",
+                    "audio": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft4/mondai8.mp3",
+                    "mondai": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft4/mondai8.jpg",
+                    "kotoba": "",
+                    "text": "A : 日本では何をしていますか",
+                    "jawaban": "2"
+                },
+                {
+                    "id": "8",
+                    "audio": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft4/mondai9.mp3",
+                    "mondai": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft4/mondai9.jpg",
+                    "kotoba": "",
+                    "text": "A : 日本では何をしていますか",
+                    "jawaban": "1"
+                },
+                {
+                    "id": "9",
+                    "audio": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft4/mondai10.mp3",
+                    "mondai": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft4/mondai10.jpg",
+                    "kotoba": "",
+                    "text": "A : 日本では何をしていますか",
+                    "jawaban": "1"
                 }
             ]
         }
