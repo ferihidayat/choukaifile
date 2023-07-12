@@ -201,8 +201,8 @@
                     "id": "1",
                     "audio": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft4/mondai1.mp3",
                     "mondai": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft4/mondai1.jpg",
-                    "kotoba": "",
-                    "text": "A : 日本では何をしていますか <br>B : 働いています <br>A : そうですか どんな仕事ですか <br>B : 介護の仕事をしています <br>A : 仕事はどうですか ​​​​​​​<br>B : 毎日大変ですでも楽しいです",
+                    "kotoba": "夜中「よなか」：tengah malam。<br>ただ：hanya, hanya saja, gratis, hanya sekedar。<br>服装「ふくそう」：pakaian。 ",
+                    "text": "今日は雨の一日でした。<br>今も少し降っています。<br>でもこの雨は夜中には止んで、明日は晴れるでしょう。<br>ただ、明日は一日風が強くなります。<br>寒い一日になります。<br>暖かい服装でお出かけください。 ",
                     "jawaban": "3"
                 },
                 {
@@ -210,7 +210,7 @@
                     "audio": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft4/mondai2.mp3",
                     "mondai": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft4/mondai2.jpg",
                     "kotoba": "",
-                    "text": "A : 日本では何をしていますか",
+                    "text": "あのうすみません、加藤さんいますか？<br>加藤さん。ああ、あそこにいますよ。<br>どの人ですか？<br>ほら、あそこでコピーをしている人です。<br>ああ、わかりました。ありがとうございます。",
                     "jawaban": "2"
                 },
                 {
@@ -218,7 +218,7 @@
                     "audio": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft4/mondai3&4.mp3",
                     "mondai": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft4/mondai3&4.jpg",
                     "kotoba": "",
-                    "text": "A : 日本では何をしていますか",
+                    "text": "さいさん。日本の歌手誰か知ってる？<br>私は安室奈美恵が好きです。<br>でも引退したよね。<br>はい、でも今でも好きです。かっこいいし、歌もダンスも上手だし。<br>そうだね。安室奈美恵はアジアではとても有名なんですよ？<br>私はテレビで見て好きになりました。<br>そうなんだ。マイクさんは誰か好きな歌手いる？<br>歌手じゃないですけど。僕は三船敏郎が好きです。<br>三船敏郎。すごいね。<br>それだれですか？<br>日本の有名な俳優です。<br>そんな古い人よく知ってるね。<br>はい、好きになったきっかけは日本映画祭で7人の侍という映画を見たことです。演技が上手だし、本当にかっこいいです。<br>そうなんですか？<br>今でも世界中にファンがたくさんいますよ。 ",
                     "jawaban": "2 & 2"
                 },
                 {
@@ -226,7 +226,7 @@
                     "audio": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft4/mondai5.mp3",
                     "mondai": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft4/mondai5.jpg",
                     "kotoba": "",
-                    "text": "A : 日本では何をしていますか",
+                    "text": "昨日テレビで、北海道の番組を見たんです。きれいなところですね。<br>ええ、自然も豊かだし、食べ物もおいしいし、とてもいいところですよ。特に魚がおいしくて新鮮なカニとかウニとか食べられますよ。<br>いいですね、いつか行ってみたいです。",
                     "jawaban": "1"
                 },
                 {
@@ -234,7 +234,7 @@
                     "audio": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft4/mondai6.mp3",
                     "mondai": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft4/mondai6.jpg",
                     "kotoba": "",
-                    "text": "A : 日本では何をしていますか",
+                    "text": "あのう、ちょっと聞きたいことがあるんですけど。<br>何ですか？<br>今度日光に紅葉を見に行くんですけど、何で行ったらいいですか？<br>日光ですか、いいですね。日光までなら電車で行けますよ。時間もあまりかかりませんし。<br>電車ですね、わかりました。<br>秋の日光はかなり寒いですよ。ジャンパーとか熱い割を持って行った方がいいですよ。<br>そうなんですか。ありがとうございます。 ",
                     "jawaban": "3"
                 },
                 {
@@ -242,7 +242,7 @@
                     "audio": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft4/mondai7.mp3",
                     "mondai": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft4/mondai7.jpg",
                     "kotoba": "",
-                    "text": "A : 日本では何をしていますか",
+                    "text": "今度富山に行くんですけど、またさん詳しいですよね。<br>兄が住んでるから。よく遊びに行くんです。<br>富山では何を食べたらいいですか？そうですね。富山はやっぱりお寿司ですね。さかずしという店は開店寿司だけど、本当に美味しいですよ。安いしおすすめです。<br>さかずしですね。行ってみます？<br>でも、できれば日曜日は行かない方がいいです。<br>どうしてですか？<br>日曜日はすごく混むんですよ。一時間ぐらい並びますよ。<br>ええ？ ",
                     "jawaban": "1"
                 },
                 {
@@ -250,7 +250,7 @@
                     "audio": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft4/mondai8.mp3",
                     "mondai": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft4/mondai8.jpg",
                     "kotoba": "",
-                    "text": "A : 日本では何をしていますか",
+                    "text": "お客様にお知らせいたします。当駅13時9分発高知行きは？信号故障のため、約30分遅れて運転を行っております。お急ぎのところ。ご利用のお客様にはご迷惑をおかけしまして、申し訳ありません。<br>あのうすみません。今のアナウンスなんて言ってましたか？<br>えっと電車が30分遅れるそうですよ。<br>30分も遅れるんですか？<br>そう信号故障だって。困りますよね、<br>信号？。<br>えっと信号が壊れたんですよ<br>そうなんですか？ ",
                     "jawaban": "2"
                 },
                 {
@@ -258,7 +258,7 @@
                     "audio": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft4/mondai9.mp3",
                     "mondai": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft4/mondai9.jpg",
                     "kotoba": "",
-                    "text": "A : 日本では何をしていますか",
+                    "text": "これおかしい。どうぞ。大阪のお土産です。<br>ありがとうございます。大阪に行ったんですね。どうでしたか？<br>大阪場とか通天閣とか。いろいろなところに行けてよかったです。<br>串カツを食べましたか？<br>いいえ、でもたこ焼きを食べました。美味しかったです。<br>そうですか？良かったですね。<br>あとあべのハルカスに登りました。すごく、高いビルですね。びっくりしました。<br>そうなんですか？私まだ行ったことないんですよ。",
                     "jawaban": "1"
                 },
                 {
@@ -266,7 +266,7 @@
                     "audio": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft4/mondai10.mp3",
                     "mondai": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft4/mondai10.jpg",
                     "kotoba": "",
-                    "text": "A : 日本では何をしていますか",
+                    "text": "週末、高尾山に行ったんです。<br>へえどうでしたか？<br>ケーブルカーがすごく混んでいて大変でした。<br>この時期は混みますよね？<br>だからケーブルカーは諦めて歩いて登りました。<br>大変でしたね。<br>疲れたけど、景色が綺麗で気持ちよかったです。上々で写真をたくさん撮りました。<br>そうですか<br>あ、それから道を歩いているとき、リスを見ました。<br>そうなんですか？自然が豊かなんですね。",
                     "jawaban": "1"
                 }
             ]
