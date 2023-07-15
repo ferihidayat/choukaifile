@@ -36,7 +36,7 @@
         }, {
             "id": 3,
             "nama": "Kanji",
-            "link": "https://kotobaweb.com/kanjigame/create",
+            "link": "list-kanji/index.html",
             "icon": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/assets/img/kanji.png",
             "proses": false
         }],
