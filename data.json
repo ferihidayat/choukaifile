@@ -293,16 +293,9 @@
                     "text": "",
                     "jawaban": ""
                 },
+                
                 {
                     "id": "3",
-                    "audio": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft5/mondai4.mp3",
-                    "mondai": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft5/mondai4.jpg",
-                    "kotoba": "",
-                    "text": "",
-                    "jawaban": ""
-                },
-                {
-                    "id": "4",
                     "audio": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft5/mondai5.mp3",
                     "mondai": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft5/mondai5.jpg",
                     "kotoba": "",
@@ -310,7 +303,7 @@
                     "jawaban": ""
                 },
                 {
-                    "id": "5",
+                    "id": "4",
                     "audio": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft5/mondai6.mp3",
                     "mondai": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft5/mondai6.jpg",
                     "kotoba": "",
@@ -318,7 +311,7 @@
                     "jawaban": ""
                 },
                 {
-                    "id": "6",
+                    "id": "5",
                     "audio": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft5/mondai7.mp3",
                     "mondai": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft5/mondai7.jpg",
                     "kotoba": "",
@@ -326,7 +319,7 @@
                     "jawaban": ""
                 },
                 {
-                    "id": "7",
+                    "id": "6",
                     "audio": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft5/mondai8.mp3",
                     "mondai": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft5/mondai8.jpg",
                     "kotoba": "",
@@ -334,7 +327,7 @@
                     "jawaban": ""
                 },
                 {
-                    "id": "8",
+                    "id": "7",
                     "audio": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft5/mondai9.mp3",
                     "mondai": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft5/mondai9.jpg",
                     "kotoba": "",
