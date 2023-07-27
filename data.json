@@ -431,7 +431,7 @@
                     "audio": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft7/mondai1.mp3",
                     "mondai": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft7/mondai1.png",
                     "kotoba": "",
-                    "text": "",
+                    "text": "あのうすみません。カンボジア料理の屋台はどこか分かりますか？えっとあっちの奥です。ここをまっすぐ行って突き当りを右に曲がったところですよ。ありがとうございます。 ",
                     "jawaban": ""
                 },
                 {
@@ -439,7 +439,7 @@
                     "audio": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft7/mondai2.mp3",
                     "mondai": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft7/mondai2.png",
                     "kotoba": "",
-                    "text": "",
+                    "text": "あのう。フリーマーケットやっていると聞いたんですが。今日はもう終わりましたよ。えっ？そうなんですか。多分、明日もありますよ。何時からか分かりますか？さあ。10時ぐらいだと思います。 ",
                     "jawaban": ""
                 },
 
@@ -447,8 +447,8 @@
                     "id": "3",
                     "audio": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft7/mondai3.mp3",
                     "mondai": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft7/mondai3.png",
-                    "kotoba": "",
-                    "text": "",
+                    "kotoba": "参加費「さんかひ」：biaya partisipasi",
+                    "text": "すみません、今度国際交流フェスティバルでカラオケ大会があると聞きました。だれでも参加できますか？カラオケ大会ですね。はい。中学生以上でしたら誰でも参加できます。でも、proの方はご遠慮いただいています。遠慮？　。Proの人は出られません。分かりました。友達と2人出てもいいですか？大丈夫ですよ。お金は払いますか？参加費は一人1000円いただいています。優勝した人には商品が出ます。そうですか？ ",
                     "jawaban": ""
                 },
                 {
@@ -456,7 +456,7 @@
                     "audio": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft7/mondai4.mp3",
                     "mondai": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft7/mondai4.png",
                     "kotoba": "",
-                    "text": "",
+                    "text": "すみません。本日の午前のロールケーキの販売は終了しました。次の販売は午後一時になります。個数が限られていますので、ロールケーキを求めるお客様はこちらの列にお並びください。よろしくお願いします。 ",
                     "jawaban": ""
                 },
                 {
@@ -464,15 +464,15 @@
                     "audio": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft7/mondai5.mp3",
                     "mondai": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft7/mondai5.png",
                     "kotoba": "",
-                    "text": "",
+                    "text": "Solongさん日本の生活にはもう慣れましたか？はい。だいたい慣れました。買い物にも困らなくなりました。買い物ですか？はい。はじめはどこで何を買えばいいかよくわかりませんでした。でも今は美味しいお弁当の店とか、安いドラッグストアとかお店に詳しくなりました。それはよかったですね。はい。最近はほかの人に教えられるようになりました。それはすごいですね。 ",
                     "jawaban": ""
                 },
                 {
                     "id": "6",
                     "audio": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft7/mondai6.mp3",
                     "mondai": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft7/mondai6.png",
-                    "kotoba": "",
-                    "text": "",
+                    "kotoba": "行事「ぎょうじ」：peristiwa",
+                    "text": "皆さんもどうぞ。はい、すごい。いただきます。これは何の料理ですか？ですよ、今日はひな祭りだから家で作ってきたんです。ひな祭り知っています。人形を飾るですよね？この寿司はひな祭りに食べるんですか？あとひな祭りには甘酒を飲んだりもしますよ。甘酒もありますけど、飲みますか？甘酒ってお酒ですよね？甘酒はお酒じゃなくてお米から作った飲み物です。この甘酒はアルコールは入ってないから大丈夫ですよ。そうなんですか？じゃあいただきます。 ",
                     "jawaban": ""
                 },
                 {
@@ -480,28 +480,28 @@
                     "audio": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft7/mondai7.mp3",
                     "mondai": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft7/mondai7.png",
                     "kotoba": "",
-                    "text": "",
+                    "text": "インドネシアではイスラム教の人が多いので、レバランが一番大きい。お祭りですね。エバー。はい。ラマダン明けのお祭りです。ラマダンの間は断食をします。一ヶ月朝から夕方までものを食べてはいけません。大変ですね。この断食が終わった時の祭りがネバランです。いつですか？年によって違います。どんなことをするんですか？みんなだいたい田舎に帰って家族でお祝いします。あとクックパッドという特別な料理やクッキーなどのお菓子を出ます。 ",
                     "jawaban": ""
                 }, {
                     "id": "8",
                     "audio": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft7/mondai8.mp3",
                     "mondai": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft7/mondai8.png",
                     "kotoba": "",
-                    "text": "",
+                    "text": "フィリピンはどうですか？フィリピンでは一番大きいお祝いはクリスマスですね。ええフィリピンでもクリスマスをお祝いするんですか？はい。フィリピンはキリスト教の人が多いですから。そうですか？日本のクリスマスとは何か違いますか？全然違いますね。フィリピンでは9月ごろからクリスマスの準備を始めます。9月。クリスマスには会社とか色々なところでパーティーをします。パーティーでは歌ったり踊ったり、特別な料理を食べたりします。特別な料理。例えば。有名なのは豚の丸焼きです。美味しいですよ。丸焼きすごい。クリスマスが終わった後も2月ぐらいまで飾りつけはそのままです。じゃあ一年の半分がクリスマスなんですね。",
                     "jawaban": ""
                 }, {
                     "id": "9",
                     "audio": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft7/mondai9.mp3",
                     "mondai": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft7/mondai9.png",
                     "kotoba": "",
-                    "text": "",
+                    "text": "すみません、初めて利用するんですが、はい、ジムのご利用ですね。はい、料金は。一人560円で3時間までです。3時間以上のご利用は延長料金が30分につき150円かかります。ご了承ください。分かりました。それでは、そこの階段を下りたところに更衣室がありますので、そこで着替えてください。それからジムでは室内用のシューズを履いてください。お持ちですか？はい、あります。それから初めて利用する時はマシンの使いかたなどトレーナーから30分ほどのオリエンテーションを受けていただきます。トレーナーは中にいますので、声をかけてください。分かりました。 ",
                     "jawaban": ""
                 }, {
                     "id": "10",
                     "audio": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft7/mondai10.mp3",
                     "mondai": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft7/mondai10.png",
                     "kotoba": "",
-                    "text": "",
+                    "text": "すみません、お風呂に入りたいんですが、それでは？そちらの券売機でチケットを買ってください。おひとり400円です。あのすみません。タオルやシャンプーはついていますか？シャンプーはお風呂にあります。タオルはこちらで一枚150円で販売しています。タオルも券売機でチケットを買ってください。分かりました。 ",
                     "jawaban": ""
                 }
             ]
