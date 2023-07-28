@@ -505,6 +505,91 @@
                     "jawaban": ""
                 }
             ]
+        }, {
+            "id": "8",
+            "nama": "Choukai JFT 8",
+            "tingkat": "JFT Basic A2",
+            "jumlah": "10",
+            "access": true,
+            "soal": [{
+                    "id": "1",
+                    "audio": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft8/mondai1.mp3",
+                    "mondai": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft8/mondai1.png",
+                    "kotoba": "",
+                    "text": "",
+                    "jawaban": ""
+                },
+                {
+                    "id": "2",
+                    "audio": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft8/mondai2.mp3",
+                    "mondai": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft8/mondai2.png",
+                    "kotoba": "",
+                    "text": "",
+                    "jawaban": ""
+                },
+
+                {
+                    "id": "3",
+                    "audio": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft8/mondai3.mp3",
+                    "mondai": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft8/mondai3.png",
+                    "kotoba": "参加費「さんかひ」：biaya partisipasi",
+                    "text": "",
+                    "jawaban": ""
+                },
+                {
+                    "id": "4",
+                    "audio": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft8/mondai4.mp3",
+                    "mondai": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft8/mondai4.png",
+                    "kotoba": "",
+                    "text": "",
+                    "jawaban": ""
+                },
+                {
+                    "id": "5",
+                    "audio": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft8/mondai5&6.mp3",
+                    "mondai": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft8/mondai5.png",
+                    "kotoba": "",
+                    "text": " ",
+                    "jawaban": ""
+                },
+                {
+                    "id": "6",
+                    "audio": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft8/mondai5&6.mp3",
+                    "mondai": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft8/mondai6.png",
+                    "kotoba": "行事「ぎょうじ」：peristiwa",
+                    "text": "",
+                    "jawaban": ""
+                },
+                {
+                    "id": "7",
+                    "audio": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft8/mondai7.mp3",
+                    "mondai": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft8/mondai7.png",
+                    "kotoba": "",
+                    "text": "",
+                    "jawaban": ""
+                }, {
+                    "id": "8",
+                    "audio": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft8/mondai8.mp3",
+                    "mondai": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft8/mondai8.png",
+                    "kotoba": "",
+                    "text": "",
+                    "jawaban": ""
+                }, {
+                    "id": "9",
+                    "audio": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft8/mondai9.mp3",
+                    "mondai": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft8/mondai9.png",
+                    "kotoba": "",
+                    "text": " ",
+                    "jawaban": ""
+                }, {
+                    "id": "10",
+                    "audio": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft8/mondai10.mp3",
+                    "mondai": "https://raw.githubusercontent.com/ferihidayat/choukaifile/main/choukai-jft8/mondai10.png",
+                    "kotoba": "",
+                    "text": "",
+                    "jawaban": ""
+                }
+            ]
         }
     ]
 }
